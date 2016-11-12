@@ -5,7 +5,7 @@ Terraform][exoscale-provider].
 
 Install with:
 
-    $ brew install Mayeu/brew-terraform-provider-exoscale
+    $ brew install --HEAD Mayeu/terraform-provider-exoscale/terraform-provider-exoscale
 
 Enjoy.
 
